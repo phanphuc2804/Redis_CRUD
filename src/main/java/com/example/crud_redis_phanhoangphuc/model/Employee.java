@@ -1,4 +1,4 @@
-package com.example.crud_new.model;
+package com.example.crud_redis_phanhoangphuc.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

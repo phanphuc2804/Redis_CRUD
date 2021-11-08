@@ -1,8 +1,7 @@
-package com.example.crud_new.repository;
+package com.example.crud_redis_phanhoangphuc.repository;
 
-import com.example.crud_new.model.Employee;
+import com.example.crud_redis_phanhoangphuc.model.Employee;
 import org.springframework.data.redis.core.HashOperations;
-import org.springframework.data.redis.core.ListOperations;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Repository;
 
